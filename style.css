@@ -12,14 +12,19 @@ body{
     background-color: lightblue;
 }
 
+t   {
+    color: #ffffff;
+}
+
 #p1 {
     font-family:orangejuice;
+    color: #ffffff;
 }
 
 #p2 {
     background-color: darkred;
     font-family:bornasinner;
-    color: #ffffff
+    color: #ffffff;
 }
 
 #p3 {
