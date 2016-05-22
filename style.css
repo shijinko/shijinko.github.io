@@ -9,7 +9,10 @@
 }
 
 body{
-    background-color: darkred;
+    background-image: url("derp.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 
 h3  {
