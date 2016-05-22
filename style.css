@@ -4,8 +4,8 @@
 }
 
 @font-face{
-    font-family:artbrewery;
-    src:url("Art Brewery.ttf");
+    font-family:orangejuice;
+    src:url("orange juice 2.0.ttf");
 }
 
 body{
@@ -13,7 +13,7 @@ body{
 }
 
 #p1 {
-    font-family:artbrewery;
+    font-family:orangejuice;
 }
 
 #p2 {
