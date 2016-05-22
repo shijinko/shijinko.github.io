@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: lightblue;
+    background-color: darkred;
 }
 
 h3  {
@@ -22,7 +22,7 @@ h3  {
 }
 
 #p2 {
-    background-color: darkred;
+    background-color: orange;
     font-family:bornasinner;
     color: #ffffff;
 }
