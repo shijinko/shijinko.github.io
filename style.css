@@ -1,7 +1,9 @@
 @font-face{
     font-family:bornasinner;
-    src:url("BornaSinner.ttf");
+    src:url("BornaSinner.ttf");  
+}
 
+@font-face{
     font-family:artbrewery;
     src:url("Art Brewery.ttf");
 }
