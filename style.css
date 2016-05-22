@@ -1,3 +1,15 @@
-#derp {
+body{
+    background-color: lightblue;
+}
+
+#p1 {
+    
+}
+
+#p2 {
+    background-color: darkred;
+}
+
+#p3 {
     color: #ff0000;
 }
