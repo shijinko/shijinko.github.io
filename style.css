@@ -19,8 +19,8 @@
 #nav{
     float: left;
     line-height: 30px;
-    background: black;
-    color: white;
+    background: white;
+    color: black;
     height: 300px;
     width: 100px;
     padding: 5px;
@@ -34,7 +34,12 @@
 }
 
 #footer{
-
+    background-color:darkred;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    font-family: bornasinner;
 }
 
 body{
