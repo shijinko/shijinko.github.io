@@ -8,6 +8,32 @@
     src:url("orange juice 2.0.ttf");
 }
 
+#header{
+    background-color: dark red;
+    color: white;
+    font-family: bornasinner;
+    text-align: center;
+    padding: 5px;
+}
+
+#nav{
+
+}
+
+#section{
+    width: 350px;
+    float: left;
+    padding 10px;
+    background-color: #000000;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    border: 1px solid white
+}
+
+#footer{
+
+}
+
 body{
     background-image: url("asdf.jpeg");
     background-repeat: no-repeat;
