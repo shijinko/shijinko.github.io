@@ -31,8 +31,7 @@
 }
 
 #section{
-    display: inline-block;
-    margin: 0 auto;
+    float: left
     width: 80%
     padding: 10px;
     background: rgba(0,0,0,0.5);
@@ -40,7 +39,7 @@
 }
 
 #aside{
-    float: right;
+    float: left;
     line-height: 30px;
     background: rgba(255,255,255,0.5);
     color: black;
