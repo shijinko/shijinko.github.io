@@ -26,8 +26,7 @@
 }
 
 #section{
-    width: 700px;
-    float: left;
+    float: right;
     padding: 10px;
     background: rgba(0,0,0,0.5);
     border: 1px solid white
