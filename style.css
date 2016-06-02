@@ -39,7 +39,7 @@
 }
 
 #aside{
-    float: left;
+    float: right;
     line-height: 30px;
     background: rgba(255,255,255,0.5);
     color: black;
