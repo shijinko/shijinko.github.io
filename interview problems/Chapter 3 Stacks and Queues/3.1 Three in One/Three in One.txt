@@ -1,0 +1,4 @@
+Use the array to store stack nodes. Each node will have a payload along with a pointer to the next node of the stack. 
+
+Inaddition to the three stacks, have a pointer list representing all the currently freed spaces, 
+using said list to find spaces to add newly made nodes.
