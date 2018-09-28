@@ -1,1 +1,0 @@
-# shijinko.github.io
